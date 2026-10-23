@@ -1,35 +1,39 @@
 # Louis Le Lièvre
 
-Engineering student at EPF, specializing in software development, with interests in artificial intelligence and computer systems.
+Étudiant ingénieur en 4ᵉ année à l'EPF, intéressé par le développement logiciel, l'intelligence artificielle et les systèmes informatiques.
 
-My academic projects cover object-oriented programming, database management, environmental monitoring, and computer network analysis. I am looking for an engineering apprenticeship starting in September 2027.
+Mes projets académiques m'ont permis de travailler sur la programmation orientée objet, la gestion de bases de données, les systèmes connectés et l'analyse de réseaux. Je recherche une alternance en informatique à partir de septembre 2027.
 
-## Projects
+## Projets
 
-**Jeu de Château — Java**  
-Object-oriented Java project focused on game logic and software design.  
-[Repository](https://github.com/louis-le-lievre/jeu-de-chateau-java)
+### Jeu de Château — Java
+Développement d'un jeu de stratégie en Java, avec une approche orientée objet et une logique de jeu structurée.
 
-**Environmental Monitoring System**  
-Project combining environmental monitoring, connected systems, and a web interface.  
-[Repository](https://github.com/louis-le-lievre/projet-surveillance-environnementale)
+[Voir le dépôt](https://github.com/louis-le-lievre/jeu-de-chateau-java)
 
-**Artisans de confiance — Excel/VBA and MySQL**  
-Project involving application logic and database management.  
-[Repository](https://github.com/louis-le-lievre/artisans-de-confiance)
+### Système de surveillance environnementale
+Projet de système connecté permettant la mesure et la surveillance de données environnementales, associé à une interface web.
 
-**Computer Networks — UFSC**  
-Practical work involving network monitoring with PRTG and protocol analysis with Wireshark.  
-[Repository](https://github.com/louis-le-lievre/redes-de-computadores-ufsc)
+[Voir le dépôt](https://github.com/louis-le-lievre/projet-surveillance-environnementale)
 
-## Technical Skills
+### Artisans de confiance — Excel VBA et MySQL
+Projet de gestion d'artisans et de suivi commercial reposant sur Excel VBA et une base de données MySQL.
 
-- **Programming:** Java, Python, VBA
-- **Databases:** MySQL, SQL
-- **Networking:** TCP/IP, Wireshark, PRTG
-- **Tools:** Git, GitHub, Excel
+[Voir le dépôt](https://github.com/louis-le-lievre/artisans-de-confiance)
+
+### Réseaux informatiques — UFSC
+Travaux pratiques portant sur la supervision réseau avec PRTG et l'analyse de protocoles avec Wireshark, notamment ARP, TCP, HTTP et UDP.
+
+[Voir le dépôt](https://github.com/louis-le-lievre/redes-de-computadores-ufsc)
+
+## Compétences techniques
+
+- **Programmation :** Java, Python, VBA
+- **Bases de données :** MySQL, SQL
+- **Réseaux :** TCP/IP, Wireshark, PRTG
+- **Outils :** Git, GitHub, Excel
 
 ## Contact
 
-- Email: [louis.lelievre@epfedu.fr](mailto:louis.lelievre@epfedu.fr)
-- GitHub: [louis-le-lievre](https://github.com/louis-le-lievre)
+- **E-mail :** [louis.lelievre@epfedu.fr](mailto:louis.lelievre@epfedu.fr)
+- **GitHub :** [louis-le-lievre](https://github.com/louis-le-lievre)
